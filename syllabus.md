@@ -20,7 +20,7 @@
 
 **10:30 - 11:00** Break
 
-**11:00 - 11:45** Multiple imputation: crwPostIS & crwPredict (Josh)
+**11:00 - 11:45** Multiple imputation with `crawl` (Josh)
 
 **11:45 - 12:30** Using `pathroutr` for paths that cross land (Josh)
 - original motivation of `pathroutr`
