@@ -32,10 +32,10 @@
 
 **12:30 - 14:00** Lunch
 
-**14:00 - 15:30** moveHMM/momentuHMM (Brett)
+**14:00 - 15:30** `moveHMM`/`momentuHMM` (Brett)
 
 **15:30 - 16:00** Break
 
-**16:00 - 16:45** Discrete space models, utilization distributions, ctmcmove (Devin)
+**16:00 - 16:45** Discrete space models, utilization distributions, `ctmcmove` (Devin)
 
 **16:45 - 17:00** Wrap up (continue discussions elsewhere if interested)
