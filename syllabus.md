@@ -12,15 +12,17 @@
 - original motivation
 - harbor seal example from 2008 paper
 
-**10:00 - 10:45** Practical `crawl` with `crawlUtils`
+**10:00 - 10:30** Practical `crawl` with `crawlUtils`
 - key steps in the modeling process
 - intro to `crawlUtils` functions
 - examining results 
 - troubleshooting errors
 
-**10:45 - 11:00** Break
+**10:30 - 11:00** Break
 
-**11:00 - 11:45** Using `pathroutr` for paths that cross land
+**11:00 - 11:45** Multiple imputation: crwPostIS & crwPredict?
+
+**11:45 - 12:30** Using `pathroutr` for paths that cross land
 - original motivation of `pathroutr`
 - theory and implementation
 - sourcing a land barrier polygon feature
@@ -28,4 +30,12 @@
 - examining results
 - troubleshooting errors
 
-**12:00 - 13:00** Lunch
+**12:30 - 14:00** Lunch
+
+**14:00 - 15:30** moveHMM/momentuHMM
+
+**15:30 - 16:00** Break
+
+**16:00 - 16:45** ctmcmove
+
+**16:45 - 17:00** Wrap up (continue discussions elsewhere if interested)
