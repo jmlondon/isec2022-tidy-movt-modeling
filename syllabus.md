@@ -4,19 +4,19 @@
 - Devin Johnson
 
 **09:15 - 09:45** Telemetry Data is Messy! Let's Make it Tidy (Josh)
+https://nmml.github.io/tidy-movt-modeling/
 - Intro to Tidy Data Principles
 - Typical Telemetry Formats (e.g. Wildlife Computers)
-- Pre-processing data for `crawl` 
+- Reading Telemetry Data 
 
-**09:45 - 10:00** Introduction & History of `crawl` (Josh)
-- original motivation
-- harbor seal example from 2008 paper
+**09:45 - 10:00** Mapping and Spatial data (Josh)
+- Explore our data
+- bearded seal example
 
 **10:00 - 10:30** Practical `crawl` with `crawlUtils` (Josh)
 - key steps in the modeling process
 - intro to `crawlUtils` functions
-- examining results 
-- troubleshooting errors
+- mapping results 
 
 **10:30 - 11:00** Break
 
