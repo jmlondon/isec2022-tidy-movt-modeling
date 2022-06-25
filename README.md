@@ -22,3 +22,7 @@ We will focus additional topics of discussion around common questions researcher
 ## Resources
 
 - https://nmml.github.io/tidy-movt-modeling/
+- RStudio Cloud: ISEC 2022 Movement modeling
+  - all packages, data, examples installed 
+  - available to workshop participants for 3 months
+  - email josh.london@noaa.gov for invite
