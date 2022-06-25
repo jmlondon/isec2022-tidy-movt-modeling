@@ -4,6 +4,7 @@
 - Devin Johnson
 
 **09:15 - 09:45** Telemetry Data is Messy! Let's Make it Tidy (Josh)
+
 https://nmml.github.io/tidy-movt-modeling/
 - Intro to Tidy Data Principles
 - Typical Telemetry Formats (e.g. Wildlife Computers)
